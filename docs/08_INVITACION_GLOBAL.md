@@ -5,6 +5,8 @@
 
 ## Todos son importantes. Todos juntos podremos.
 
+> **CONDICIÓN INICIAL — TRANSPARENCIA TOTAL DEL PROCESO.** Esta invitación solo plantea una colaboración con transparencia completa sobre objetivos, afirmaciones, evidencias, resultados positivos y negativos, decisiones y reconocimiento de las aportaciones. La información privada, personal, legalmente protegida o sensible quedará expresamente identificada como reservada; nunca se presentará como evidencia pública algo que no pueda mostrarse. **Si su equipo o institución no desea colaborar bajo estas condiciones, no es necesario que responda.**
+
 Invito a investigadores, docentes, estudiantes, profesionales, técnicos, desarrolladores, artistas, personas autodidactas y comunidades de cualquier país a **conocer, cuestionar y, si lo desean, contribuir** a la evolución del programa UNAI–ALM.
 
 No buscamos que todas las personas piensen igual. Buscamos construir un espacio en el que una pregunta rigurosa, una contradicción detectada, una demostración correcta, un experimento bien diseñado o una explicación que permita aprender sean reconocidos por su valor.
@@ -34,7 +36,7 @@ Navier–Stokes 3D, la hipótesis de Riemann y la conjetura de Hodge siguen sien
 
 La presente invitación permanece pública desde ahora. La **campaña de invitaciones directas** se iniciará cuando se documente un reconocimiento explícito de ALM por una institución identificable, mediante comunicado, documento o comunicación auténtica comprobable. Se consignarán la institución, fecha, documento y alcance real del reconocimiento, sin confundir interés, recepción, evaluación, reconocimiento del proyecto o validación científica.
 
-El envío directo necesitará destinatarios institucionales definidos, direcciones de contacto públicas y verificadas, respeto a las preferencias de contacto y un registro para evitar duplicados. Hasta contar con esos datos, el sistema podrá detectar el hito y preparar los mensajes, pero no se considerará enviado ningún correo sin registro de envío.
+El autor ha autorizado como **primera ronda de destinatarios** los 36 centros, equipos y redes del [directorio mundial propuesto](11_DESTINATARIOS_PRIMERA_RONDA.md). Su inclusión no indica participación ni reconocimiento institucional. Antes de enviar se verificará por separado la dirección institucional profesional y la pertinencia del contacto, se respetarán las preferencias de comunicación y se evitarán duplicados. No se considerará enviado ningún correo sin registro de envío.
 
 ## Cómo dar el primer paso
 

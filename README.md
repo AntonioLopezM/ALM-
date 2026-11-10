@@ -26,7 +26,7 @@ La **consulta de todos los materiales publicados en ALM- es gratuita, abierta y 
 
 **Principio de igualdad:** toda aportación de mejora, de cualquier ámbito y de cualquier persona, se valorará con idéntica disposición a examinarla, aplicando los mismos criterios de evidencia y utilidad. [Compromiso completo](docs/08_INVITACION_GLOBAL.md#igualdad-de-consideración-para-todas-las-aportaciones).
 
-**Difusión institucional:** la invitación pública ya está abierta; el envío directo a instituciones se ampliará cuando exista reconocimiento verificable y una lista de destinatarios autorizada y comprobada. Esta condición no restringe la participación actual.
+**Difusión institucional:** la invitación pública ya está abierta; la primera ronda de invitaciones directas se dirige a [36 centros y redes propuestos](docs/11_DESTINATARIOS_PRIMERA_RONDA.md), solamente después de reconocimiento verificable y confirmación de sus contactos institucionales. **Transparencia completa del proceso**, con protección expresa de material privado y sensible; quien no acepte estas condiciones no necesita responder. Esta condición no restringe la participación actual.
 
 ## Qué puede consultar la comunidad
 

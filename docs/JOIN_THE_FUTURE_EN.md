@@ -1,5 +1,7 @@
 # Join us in building the future — An open UNAI–ALM invitation
 
+**Transparency first: we invite collaboration only with complete transparency about aims, evidence, positive and negative findings, decisions, and credit. Personal, sensitive or legally protected information remains explicitly restricted and cannot be presented as publicly verified evidence. If your institution does not wish to collaborate on these terms, no reply is needed.**
+
 **Everyone matters. Together, we can make progress.**
 
 Antonio López Martínez invites researchers, educators, students, technicians, independent thinkers, developers, and communities worldwide to read, challenge, translate, discuss, and potentially help develop the public research programme UNAI–ALM.
