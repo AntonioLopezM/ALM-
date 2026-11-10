@@ -19,9 +19,22 @@ El futuro necesita muchas formas de conocimiento. Por eso proponemos trabajar si
 4. **Contribuir desde tu especialidad:** matemática, física, ingeniería, computación, verificación formal, IA, ética, materiales, robótica, educación, divulgación, traducción o accesibilidad.
 5. **Hacer que el conocimiento sea comprobable:** proponer pruebas delimitadas, bibliografía, reproducibilidad y correcciones documentadas.
 
+
+## Igualdad de consideración para todas las aportaciones
+
+**Cualquier aportación para mejorar el modelo ALM, en cualquier ámbito, recibirá la misma consideración inicial, independientemente de quién la proponga o de su titulación, cargo, edad, procedencia, disciplina o institución.** Ninguna contribución será descartada por el perfil de quien la presente.
+
+Cada propuesta se examinará con criterios comunes y transparentes: claridad, fundamento, evidencia, utilidad, reproducibilidad, respeto y seguridad. **Igualdad de consideración no significa que todas las propuestas sean igual de correctas o estén igualmente demostradas.** Se reconocerá y atribuirá la aportación de cada participante, incluidas correcciones y resultados negativos.
+
 ## Nadie tiene que creer antes de comprobar
 
 Navier–Stokes 3D, la hipótesis de Riemann y la conjetura de Hodge siguen siendo problemas abiertos en nuestra documentación. Los ejemplos básicos son matemáticas establecidas; las nuevas hipótesis necesitan pruebas; las simulaciones no reemplazan demostraciones. La crítica y los resultados negativos también hacen avanzar.
+
+## Ampliación de invitaciones tras reconocimiento institucional verificable
+
+La presente invitación permanece pública desde ahora. La **campaña de invitaciones directas** se iniciará cuando se documente un reconocimiento explícito de ALM por una institución identificable, mediante comunicado, documento o comunicación auténtica comprobable. Se consignarán la institución, fecha, documento y alcance real del reconocimiento, sin confundir interés, recepción, evaluación, reconocimiento del proyecto o validación científica.
+
+El envío directo necesitará destinatarios institucionales definidos, direcciones de contacto públicas y verificadas, respeto a las preferencias de contacto y un registro para evitar duplicados. Hasta contar con esos datos, el sistema podrá detectar el hito y preparar los mensajes, pero no se considerará enviado ningún correo sin registro de envío.
 
 ## Cómo dar el primer paso
 

@@ -10,6 +10,10 @@ Antonio López Martínez invites researchers, educators, students, technicians, 
 
 Different contributions matter: a mathematical counterexample, a clearer explanation, an accessibility improvement, a formal proof, a careful experiment, or a useful question. The proposed foundational course treats three dimensions equally: **ALM learning**, **holistic self-care**, and **understanding and responsibly engaging with one's environment** (“expertar medio”).
 
+**Every contribution to improving ALM, in any field, deserves equal initial consideration, regardless of who makes it, their qualifications, origin, status, or affiliation.** Proposals are assessed by the same transparent criteria of evidence, clarity, reproducibility, usefulness, and safety. Equal consideration does not mean that all scientific claims are equally valid.
+
+The invitation is already open to read and participate in. A wider round of **direct invitations** is planned only after a verifiable institutional recognition of ALM, accurately described according to its actual scope. Direct outreach requires a vetted recipient list and verifiable delivery records.
+
 All scientific claims remain subject to evidence and independent scrutiny. The three-dimensional Navier–Stokes problem, Riemann Hypothesis and Hodge Conjecture are **not claimed to have been solved**. Private technical materials, personal records and sensitive implementations are not part of this invitation.
 
 Participation is voluntary, does not imply institutional endorsement, employment or funding, and any substantial contribution should be clearly attributed.

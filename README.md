@@ -24,6 +24,10 @@ La **consulta de todos los materiales publicados en ALM- es gratuita, abierta y 
 
 **Participación:** [abrir una propuesta o pregunta en GitHub Issues](https://github.com/AntonioLopezM/ALM-/issues/new). Se respetará el carácter privado de UNAI–ALM y no se presupone el respaldo de ninguna institución. Consultar libremente no implica una licencia de reutilización comercial, modificación o redistribución.
 
+**Principio de igualdad:** toda aportación de mejora, de cualquier ámbito y de cualquier persona, se valorará con idéntica disposición a examinarla, aplicando los mismos criterios de evidencia y utilidad. [Compromiso completo](docs/08_INVITACION_GLOBAL.md#igualdad-de-consideración-para-todas-las-aportaciones).
+
+**Difusión institucional:** la invitación pública ya está abierta; el envío directo a instituciones se ampliará cuando exista reconocimiento verificable y una lista de destinatarios autorizada y comprobada. Esta condición no restringe la participación actual.
+
 ## Qué puede consultar la comunidad
 
 - [Alcance público y límites de divulgación](docs/01_ALCANCE_PUBLICO.md).

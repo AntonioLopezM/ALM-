@@ -39,11 +39,17 @@ Se anima a discrepar con argumentos, preguntar sin vergüenza y reconocer correc
 
 La participación internacional debe facilitar diferencias de idioma, experiencia, acceso y formación. Las contribuciones sustantivas deben ser reconocidas.
 
-## 5. Desarrollo y acceso restringido
+## 5. Igual valor de consideración, sin discriminación
+
+Toda propuesta que busque mejorar ALM, sea matemática, técnica, educativa, física, de autocuidado, medioambiental, de accesibilidad o de otra materia, tendrá **igual oportunidad de ser examinada** con independencia del perfil, país, formación, cargo, identidad o prestigio de quien la aporte.
+
+La evidencia, pertinencia, claridad, reproducibilidad y seguridad determinarán el dictamen concreto, no el rango social o profesional. La igualdad de trato no predetermina que dos afirmaciones sean igualmente válidas. Las correcciones, objeciones y resultados negativos merecen reconocimiento proporcionado a su contribución.
+
+## 6. Desarrollo y acceso restringido
 
 La colaboración sobre documentación pública y el curso introductorio puede plantearse en abierto. Cualquier revisión de código computacional interno, datos sensibles o arquitectura reservada necesita **una autorización adicional explícita** y un alcance concreto. No usar Issues para solicitar claves, copias privadas o acceso a información personal.
 
-## 6. Estados de una revisión
+## 7. Estados de una revisión
 
 **Recibida → En estudio → Aclaración requerida → Evaluada → Incorporada / No incorporada / Pendiente de evidencia.**
 
