@@ -27,6 +27,10 @@ Los desarrollos sensibles y privados quedan fuera de la difusión pública. La c
 
 Referencia pública del proyecto: https://github.com/AntonioLopezM/ALM-
 
+Propuesta pública AGUA–LUZ–01 (agua y energía sostenibles, desarrollo conceptual): https://github.com/AntonioLopezM/ALM-/blob/main/propuestas/UNAI_ALM_AGUA_LUZ_01_v0_1.md
+
+DOI general de referencia declarado: https://doi.org/10.5281/zenodo.24075954 (no implica registro de esta propuesta en Zenodo).
+
 Vídeo de invitación en TikTok (enlace compartido por el autor; destino no verificado desde esta sesión): https://vm.tiktok.com/ZN8PSdujY/
 
 Contacto y participación: mediante los canales públicos que el autor habilite de forma expresa.
