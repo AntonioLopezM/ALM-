@@ -12,6 +12,18 @@ ALM (Atomic Logical Method) es un programa de investigación que propone estudia
 
 Su propósito es examinar cuándo una relación entre modelos puede formularse y contrastarse rigurosamente. **No se presupone que todos los fenómenos físicos sean idénticos ni que un parecido formal demuestre una ley física común.**
 
+## Acceso libre y colaboración internacional
+
+La **consulta de todos los materiales publicados en ALM- es gratuita, abierta y no exige iniciar sesión ni solicitar permiso**. Para enviar aportaciones mediante GitHub Issues o Pull Requests sí hace falta una cuenta de GitHub.
+
+- [Puerta de acceso libre y condiciones de consulta](docs/00_ACCESO_LIBRE.md).
+- [Curso troncal obligatorio para la formación estructurada: ALM + autocuidado holístico + «expertar medio»](docs/07_CURSO_TRONCAL_APRENDIZAJE.md).
+- [Invitación abierta: «Todos son importantes. Todos juntos podremos»](docs/08_INVITACION_GLOBAL.md).
+- [Cómo participar, debatir y proponer correcciones](docs/09_COMO_PARTICIPAR.md).
+- [International invitation (English)](docs/JOIN_THE_FUTURE_EN.md).
+
+**Participación:** [abrir una propuesta o pregunta en GitHub Issues](https://github.com/AntonioLopezM/ALM-/issues/new). Se respetará el carácter privado de UNAI–ALM y no se presupone el respaldo de ninguna institución. Consultar libremente no implica una licencia de reutilización comercial, modificación o redistribución.
+
 ## Qué puede consultar la comunidad
 
 - [Alcance público y límites de divulgación](docs/01_ALCANCE_PUBLICO.md).
