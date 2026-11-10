@@ -27,6 +27,8 @@ Los desarrollos sensibles y privados quedan fuera de la difusión pública. La c
 
 Referencia pública del proyecto: https://github.com/AntonioLopezM/ALM-
 
+Vídeo de invitación en TikTok (enlace compartido por el autor; destino no verificado desde esta sesión): https://vm.tiktok.com/ZN8PSdujY/
+
 Contacto y participación: mediante los canales públicos que el autor habilite de forma expresa.
 
 ---
