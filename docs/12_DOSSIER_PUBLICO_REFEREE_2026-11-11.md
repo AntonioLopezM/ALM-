@@ -69,6 +69,6 @@ La clasificación editorial aplicable es: **demostrado en dominio declarado / ve
 - **DOI histórico relacionado declarado:** [10.5281/zenodo.18761284](https://doi.org/10.5281/zenodo.18761284). No se presupone equivalencia de versiones.
 - [Estado científico público](02_ESTADO_CIENTIFICO.md), [Ejemplos](03_EJEMPLOS_MATEMATICOS.md), [Política de DOI](06_REFERENCIAS.md), [Autoría, procedencia y asistencia de IA](05_AUTORIA_Y_PROCEDENCIA.md).
 
-**No incluye** repositorios privados, originales históricos, código/datos experimentales reservados ni el desarrollo independiente JARVIS. La evaluación de material reservado solo podrá tramitarse separadamente, con autorización y supervisión expresas. **Los originales no se han modificado.**
+**No incluye** repositorios privados, originales históricos, código/datos experimentales reservados ni documentación de desarrollos independientes. La evaluación de material reservado solo podrá tramitarse separadamente, con autorización y supervisión expresas. **Los originales no se han modificado.**
 
 **Invitación:** se solicitan críticas científicas, errores verificables, contraejemplos y propuestas de cierre de obligaciones, sin presumir resultados ni aval institucional.
