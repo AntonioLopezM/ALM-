@@ -28,6 +28,13 @@ La **consulta de todos los materiales publicados en ALM- es gratuita, abierta y 
 
 **Difusión institucional:** la invitación pública ya está abierta; la primera ronda de invitaciones directas se dirige a [36 centros y redes propuestos](docs/11_DESTINATARIOS_PRIMERA_RONDA.md), solamente después de reconocimiento verificable y confirmación de sus contactos institucionales. **Transparencia completa del proceso**, con protección expresa de material privado y sensible; quien no acepte estas condiciones no necesita responder. Esta condición no restringe la participación actual.
 
+## Dossier REF para revisión científica (11/11/2026)
+
+- [Dossier público REF (castellano): estado, pruebas delimitadas, contraejemplos y obligaciones abiertas](docs/12_DOSSIER_PUBLICO_REFEREE_2026-11-11.md).
+- [Public REF dossier — English summary](docs/REF_PUBLIC_EN_2026-11-11.md).
+
+**Alcance:** publicación de una versión no sensible para crítica externa, **no** del expediente REF interno, ni envío a una revista, ni aval académico. Los originales y anexos privados permanecen intactos.
+
 ## Qué puede consultar la comunidad
 
 - [Alcance público y límites de divulgación](docs/01_ALCANCE_PUBLICO.md).
